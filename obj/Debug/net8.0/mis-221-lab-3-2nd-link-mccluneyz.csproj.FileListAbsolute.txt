@@ -1,0 +1,15 @@
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\bin\Debug\net8.0\mis-221-lab-3-2nd-link-mccluneyz.exe
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\bin\Debug\net8.0\mis-221-lab-3-2nd-link-mccluneyz.deps.json
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\bin\Debug\net8.0\mis-221-lab-3-2nd-link-mccluneyz.runtimeconfig.json
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\bin\Debug\net8.0\mis-221-lab-3-2nd-link-mccluneyz.dll
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\bin\Debug\net8.0\mis-221-lab-3-2nd-link-mccluneyz.pdb
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mccluneyz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mccluneyz.AssemblyInfoInputs.cache
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mccluneyz.AssemblyInfo.cs
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mccluneyz.csproj.CoreCompileInputs.cache
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mccluneyz.sourcelink.json
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mccluneyz.dll
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\obj\Debug\net8.0\refint\mis-221-lab-3-2nd-link-mccluneyz.dll
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mccluneyz.pdb
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mccluneyz.genruntimeconfig.cache
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-3-2nd-link-mccluneyz\obj\Debug\net8.0\ref\mis-221-lab-3-2nd-link-mccluneyz.dll
